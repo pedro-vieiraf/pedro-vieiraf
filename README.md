@@ -4,7 +4,7 @@ Meu nome é Pedro Vieira Ferreira, sou um Desenvolvedor Web Full-Stack. Sou uma 
 
 🔭 Atualmente estou trabalhando em refinar meus projetos feitos durante minha formação na Trybe. Podem esperar diversos projetos sendo publicados em breve.
 
-💬 Você pode me achar no <a href="https://www.linkedin.com/in/pedro-vieira-dev/">LinkedIn</a> ou dar uma olhada no <a>meu portfólio</a>
+💬 Você pode me achar no <a href="https://www.linkedin.com/in/pedro-vieira-dev/">LinkedIn</a> ou dar uma olhada no <a>meu portfólio</a> (a ser implementado)
 
 ## Minhas Skills
 
