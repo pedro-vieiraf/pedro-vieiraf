@@ -30,8 +30,8 @@ Meu nome é Pedro Vieira Ferreira, sou um Desenvolvedor Web Full-Stack. Sou uma 
 <br>
 
 <!-- GITHUB STATUS -->
-![pedro-vieiraf's Stats](https://github-readme-stats.vercel.app/api?username=pedro-vieiraf&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![pedro-vieiraf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vieiraf&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Pedro Vieira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-vieiraf&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vieiraf&layout=compact&theme=dark)
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
