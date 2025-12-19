@@ -2,7 +2,7 @@
 
 I am a full-stack software developer with a strong focus on back-end development. I have experience building scalable and efficient web applications using modern technologies. My passion lies in solving complex problems and delivering high-quality solutions. I am always eager to learn new technologies and improve my skills.
 
-💬 You can find me on <a href="https://www.linkedin.com/in/pedro-vieira-dev/">LinkedIn</a> or check out <a href="https://pedro-vieiraf.github.io/Portfolio/">my portfolio</a>.
+💬 You can find me on <a href="https://www.linkedin.com/in/pedro-vieira-dev/">LinkedIn</a> or check out <a href="https://terminal-portfolio-chi-red.vercel.app/">my portfolio</a>.
 
 ## Technical Skills 🛠️
 
