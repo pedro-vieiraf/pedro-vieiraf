@@ -14,8 +14,6 @@ I am a back-end developer. I have experience building scalable and efficient web
 - **Tools & Technologies:** Docker, Git, GitHub, Linux
 - **Other Skills:** RESTful APIs, Agile Methodology
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vieiraf&theme=dark)](https://github.com/pedro-vieiraf/github-readme-stats)
-
 ## Contact 📧
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vieira-dev/)](https://www.linkedin.com/in/pedro-vieira-dev/)
